@@ -127,5 +127,5 @@ Aqui no meu GitHub você encontrará projetos que refletem minha jornada, minha 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brookste/brookste/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/brookste/brookste/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
