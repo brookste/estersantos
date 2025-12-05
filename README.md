@@ -124,8 +124,3 @@ Aqui no meu GitHub você encontrará projetos que refletem minha jornada, minha 
 <h3>📚 Site ONG Amigos de Rua</h3> <p>Site fictício desenvolvido para uma ONG de acolhimento de animais em situação de rua, utilizando HTML5, CSS3 e JavaScript.
 </p> <a href="https://github.com/brookste/ong_amigosderua"><b>🔗 Acessar Repositório</b></a> </td> </tr> </table>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brookste/brookste/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
